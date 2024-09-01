@@ -1,131 +1,77 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Life Hackers
+## Welcome to Life Hackers!
+This project is designed to be your ultimate resource for practical tips, creative solutions, and everyday tricks that make life easier and more efficient. Whether you're a developer looking to contribute, a designer aiming to enhance user experience, or a user interested in discovering new hacks, this website serves as a collaborative platform where innovative ideas come together. Our goal is to provide a clean, intuitive, and user-friendly interface that makes it simple for visitors to explore and benefit from the vast array of life hacks we offer.
 
-Welcome USER_NAME,
+**Life Hackers** is designed to be a comprehensive, user-friendly resource that delivers practical and innovative life hacks directly to you. The website is organized into various categories, making it easy for you to navigate and find the tips and tricks that suit your needs. Our team curates and creates content to ensure that every hack on the site is valuable, actionable, and up-to-date. Whether you're browsing for new ideas or looking for specific solutions, Life Hackers is committed to providing a seamless experience that helps you enhance your daily life efficiently.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Navigation Bar Overview
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+The **Life Hackers** website is designed with user convenience in mind, and a key feature of this is our intuitive and well-structured navigation bar. The navigation bar is your gateway to exploring the wealth of content available on our site, and it is organized into several main categories, each containing relevant subcategories to help you find exactly what you're looking for with ease.
 
-## Gitpod Reminders
+### Main Categories:
+The navigation bar features a set of main categories that cover broad areas of life hacks. These categories are strategically chosen to represent the most common and useful areas of everyday life where our tips and tricks can be applied. The navigation bar will be visible on all pages of the website. The main categories include:
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- **Home & Garden:** Hacks for home improvement, gardening, organization, and maintenance.
+- **Health & Wellness:** Tips on fitness, mental health, nutrition, and overall well-being.
+- **Productivity:** Ideas to boost efficiency, manage time better, and streamline work and personal tasks.
+- **Technology:** Tech-related hacks, including software tips, device optimization, and digital security.
+- **Food & Cooking:** Recipes, kitchen shortcuts, and food storage tips to make your culinary life easier.
+- **Travel & Leisure:** Travel hacks, packing tips, and ideas for making the most out of your leisure time.
 
-`python3 -m http.server`
+### Subcategories:
+Within each main category, you’ll find several subcategories that allow for even more targeted browsing. These subcategories help you narrow down your search to the specific type of hack you need. For example:
 
-A blue button should appear to click: _Make Public_,
+- **Home & Garden** might include subcategories like **Cleaning Tips**, **DIY Projects**, and **Organization**.
+- **Health & Wellness** could be broken down into **Exercise**, **Mental Health**, and **Healthy Eating**.
+- **Productivity** may feature subcategories such as **Time Management**, **Work Hacks**, and **Study Tips**.
 
-Another blue button should appear to click: _Open Browser_.
+By dividing the content into these specific subcategories, Life Hackers ensures that users can quickly and easily find relevant hacks, saving time and enhancing their overall experience on the site.
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+### Search Bar ###
+A search bar will be visible on all pages for easy Life Hacks searches using keywords
 
-A blue button should appear to click: _Make Public_,
+## Life Hackers Landing Page Concept
 
-Another blue button should appear to click: _Open Browser_.
+### Hero Section
+- **Background Image:** A modern, bright hero image featuring a blend of everyday items like tech gadgets, kitchen tools, and gears, symbolizing innovation and efficiency. The image should have a clean, minimalist style with a welcoming color palette.
+- **Headline:** "Unlock Smarter Living with Life Hackers"
+- **Subheadline:** "Discover practical tips, clever solutions, and creative ideas to simplify your life."
+- **Call-to-Action Button:** [Explore Hacks] - Prominently placed and inviting users to dive into the content.
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Introduction
+- **Brief Overview:** Life Hackers is a hub for innovative and practical life hacks. Find tips across various categories including home, health, productivity, technology, and more.
+- **Example Hacks:** Showcase a few popular life hacks with eye-catching icons or images to give users a taste of what’s available.
 
-To log into the Heroku toolbelt CLI:
+### Featured Categories / Latest updates
+- **Interactive Sections:** Display key categories with visually appealing icons or images. Each category section should have a brief description and a link to explore more. Example categories:
+  - **Home & Garden**
+  - **Health & Wellness**
+  - **Productivity**
+  - **Technology**
+  - **Food & Cooking**
+  - **Travel & Leisure**
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### User Testimonials
+- **Quotes or Reviews:** Display a few testimonials from users who have found valuable tips and solutions through Life Hackers. Include names and photos for authenticity.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
+### Latest Hacks
+- **Dynamic Feed:** A section featuring the latest or most popular hacks, updated regularly. Include a brief description and a link to view the full hack.
 
-### Connecting your Mongo database
+### Newsletter Signup
+- **Call-to-Action:** Encourage users to sign up for a newsletter to receive the latest tips and updates. Include a simple form with fields for name and email address.
 
-- **Connect to Mongo CLI on a IDE**
-- navigate to your MongoDB Clusters Sandbox
-- click **"Connect"** button
-- select **"Connect with the MongoDB shell"**
-- select **"I have the mongo shell installed"**
-- choose **mongosh (2.0 or later)** for : **"Select your mongo shell version"**
-- choose option: **"Run your connection string in your command line"**
-- in the terminal, paste the copied code `mongo "mongodb+srv://<CLUSTER-NAME>.mongodb.net/<DBname>" --apiVersion 1 --username <USERNAME>`
-  - replace all `<angle-bracket>` keys with your own data
-- enter password _(will not echo **\*\*\*\*** on screen)_
+### Footer
+- **Quick Links:** Provide links to important pages such as About Us, Contact, Privacy Policy, and Terms of Service.
+- **Social Media Links:** Icons linking to social media profiles to encourage users to follow and engage with Life Hackers on different platforms.
 
-------
+### Visual Style
+- **Color Scheme:** Use a bright and engaging color palette with modern and clean design elements.
+- **Typography:** Choose readable and contemporary fonts to maintain a professional and user-friendly appearance.
+- **Icons and Imagery:** Utilize high-quality icons and images that align with the theme of practical solutions and innovation.
 
-## Release History
+### User Experience
+- **Responsive Design:** Ensure the landing page is fully responsive and looks great on all devices, including desktops, tablets, and smartphones.
+- **Fast Load Times:** Optimize images and design elements for quick loading to enhance user experience.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**June 18, 2024,** Add Mongo back into template
-
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
-
-**May 28 2024:** Fix Mongo and Links installs
-
-**April 26 2024:** Update node version to 16
-
-**September 20 2023:** Update Python version to 3.9.17.
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+## Features left to implement
+An e-commerce option to sell tools featured in the Life Hacks presented.
