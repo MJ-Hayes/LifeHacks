@@ -42,14 +42,8 @@ A search bar will be visible on all pages for easy Life Hacks searches using key
 - **Brief Overview:** Life Hackers is a hub for innovative and practical life hacks. Find tips across various categories including home, health, productivity, technology, and more.
 - **Example Hacks:** Showcase a few popular life hacks with eye-catching icons or images to give users a taste of what’s available.
 
-### Featured Categories / Latest updates
-- **Interactive Sections:** Display key categories with visually appealing icons or images. Each category section should have a brief description and a link to explore more. Example categories:
-  - **Home & Garden**
-  - **Health & Wellness**
-  - **Productivity**
-  - **Technology**
-  - **Food & Cooking**
-  - **Travel & Leisure**
+### Featured Categories
+- **Interactive Sections:** Display key categories with visually appealing icons or images. Each category section should have a brief description and a link to explore more. 
 
 ### User Testimonials
 - **Quotes or Reviews:** Display a few testimonials from users who have found valuable tips and solutions through Life Hackers. Include names and photos for authenticity.
@@ -72,6 +66,9 @@ A search bar will be visible on all pages for easy Life Hacks searches using key
 ### User Experience
 - **Responsive Design:** Ensure the landing page is fully responsive and looks great on all devices, including desktops, tablets, and smartphones.
 - **Fast Load Times:** Optimize images and design elements for quick loading to enhance user experience.
+
+### User contributed hacks
+- **Call-to-Action:** Ask for user submitted Life Hack
 
 ## Features left to implement
 An e-commerce option to sell tools featured in the Life Hacks presented.
